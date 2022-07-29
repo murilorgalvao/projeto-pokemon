@@ -1,0 +1,11 @@
+.fundo-2 {
+  background: url(../imagens/fundo-card-2.jpg) no-repeat;
+}
+
+.fundo-3 {
+  background: url(../imagens/fundo-card-3.jpg) no-repeat;
+}
+
+.cartao .informacoes {
+  background-color: rgba(179, 177, 185, 0.7);
+}
